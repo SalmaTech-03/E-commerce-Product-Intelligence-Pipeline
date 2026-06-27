@@ -51,19 +51,18 @@ graph TD
 
 ---
 
-## Strategic Business Impact (Google X-Y-Z Strategy)
+## Strategic Business Impact 
 
-### Data Scientist Role
+
 
 * Accomplished a 40% expansion of the feature set for predictive pricing models, measured by inclusion of real-time inventory status and rating metrics, by building a high-throughput data ingestion engine using BeautifulSoup and custom HTTP headers.
 * Achieved a 98% extraction success rate, measured by reduced request failures and blocked responses, by implementing user-agent handling and robust parsing logic.
 
-### Data Analyst Role
+
 
 * Accomplished a 95% reduction in manual data collection time, measured by transitioning from manual tracking to automated extraction of 500+ product records, by building a Python-based ETL pipeline that converts unstructured HTML into structured CSV format.
 * Improved data reporting accuracy, measured by elimination of CSV formatting errors, by implementing a structured data cleaning and sanitization process.
 
-### Business Analyst Role
 
 * Accomplished a 10x improvement in competitor monitoring frequency, measured by daily automated updates compared to weekly manual tracking, by developing a scalable scraping system for e-commerce product pages.
 * Improved market insight generation, measured by a 25% increase in actionable pricing intelligence, by aggregating multi-dimensional product attributes across competitors.
